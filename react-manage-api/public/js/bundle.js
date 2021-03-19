@@ -9689,7 +9689,7 @@ var App = function (_Component) {
         _react2.default.createElement(
           'h1',
           null,
-          'Mi Aplicaci\xF3n Modificada'
+          'My API App With REACT'
         ),
         _react2.default.createElement(
           'ul',

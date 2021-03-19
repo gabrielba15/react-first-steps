@@ -24,7 +24,7 @@ class App extends Component {
     });
     return (
       <div>
-        <h1>Mi Aplicación Modificada</h1>
+        <h1>My API App With REACT</h1>
         <ul>{users}</ul>
       </div>
     );
