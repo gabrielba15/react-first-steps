@@ -1,5 +1,8 @@
 # Tasks App with React
 
+Screenshots :camera:
+
+![principal](docs/principal.png)
 
 ## Available Scripts
 
